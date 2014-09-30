@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Wat een dag..."
-date:   2014-09-30 18:48:28
+title:  "Dus het werkt.."
+date:   2014-10-01 18:48:28
 categories: jekyll update
 ---
-###Dus het werkt, ...
+###Dus het werkt
 
-Tja,...
+Tja
 
-``Hallo`
+`Hallo`

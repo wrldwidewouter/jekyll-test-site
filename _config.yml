@@ -4,7 +4,7 @@ email: wouter@wouter.nl
 description: > # this means to ignore newlines until "baseurl:"
   Dit is mijn geweldige nieuwe portfolio website. Have fun!
 baseurl: "/jekyll-test-site" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://wrldwidewouter.github.io" # the base hostname & protocol for your site
 twitter_username: wouter
 github_username:  wouter
 

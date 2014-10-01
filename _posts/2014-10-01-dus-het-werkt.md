@@ -12,4 +12,4 @@ categories: jekyll update
 Doei! 
 #### Dag, `doei`
 
-wouter www
+wouter

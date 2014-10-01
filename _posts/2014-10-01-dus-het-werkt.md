@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Dus het werkt..
-date: {}
+title:  "Dus het werkt.."
+date:   2014-10-01 18:48:28
 categories: jekyll update
-published: true
 ---
 
 ###Dus het werkt
@@ -13,4 +12,4 @@ published: true
 Doei! 
 #### Dag, `doei`
 
-Wouter
+wouter www
